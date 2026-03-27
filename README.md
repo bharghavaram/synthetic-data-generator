@@ -1,3 +1,5 @@
+> **📅 Project Period:** Jan 2026 – Feb 2026 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # AI Synthetic Data Generator
 
 > Generate high-quality training datasets using GPT-4o and Claude for ML and testing
