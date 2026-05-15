@@ -15,7 +15,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/synthetic-data-generator/main/docs/images/demo.svg" alt="synthetic-data-generator demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 ML teams waste weeks hand-crafting training datasets. Real data is scarce, imbalanced, or contains PII. Existing synthetic tools produce unrealistic, low-diversity records. This platform uses GPT-4o and Claude in parallel to generate high-quality, domain-specific synthetic datasets with automatic schema inference, configurable diversity, quality scoring, and CSV/JSON export — covering e-commerce, finance, healthcare, and custom domains.
 
